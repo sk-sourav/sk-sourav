@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sk-sourav
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning DSA & FLUTTER
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me - E-mail -> imsourav.mdp@gmail.com
 
