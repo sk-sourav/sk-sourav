@@ -1,4 +1,4 @@
-### :man_technologist: Hello 👋 I am SOURAV KUMAR.
+ Hello 👋 I am SOURAV KUMAR.
 First of all, thanks for visiting my profile. Here, what you should know about me:
 - I am a self driven passionate coder who loves to solve problems and write efficient codes.
 - My primary coding language: C++.
@@ -24,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 </div>
   ----------------------------------------------------------------------------------------------------------------------------------------------
 
-### : GitHub Analytics :
+### :man_technologist: My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-sourav)](https://github.com/SOURAV/github-readme-stats)
