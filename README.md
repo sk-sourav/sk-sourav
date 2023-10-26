@@ -1,10 +1,10 @@
-### :man_technologist: About Me :
-
-- 👋 Hi, I’m @sk-sourav
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me - E-mail -> imsourav.mdp@gmail.com
+### :man_technologist: Hello 👋 I am SOURAV KUMAR.
+First of all, thanks for visiting my profile. Here, what you should know about me:
+- I am a self driven passionate coder who loves to solve problems and write efficient codes.
+- My primary coding language: C++.
+- I am happy to discuss about: Data Structures and Algorithms, Programming in C++/Java, MERN STACK, Computer concepts(Operating Systems,,Databases) and Cloud(AWS).
+- I am looking forward to collaborate on Open-Source Projects.
+- I am just trying to impart my knowledge via repositories which will be quite helpful for those who codes in C++ and MERN STACK.
 
 <!---
 sk-sourav/sk-sourav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
