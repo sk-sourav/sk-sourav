@@ -14,15 +14,42 @@ You can click the Preview link to take a look at your changes.
 
 <div>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="My SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>&nbsp;
 
+
 </div>
-  ----------------------------------------------------------------------------------------------------------------------------------------------
+________________________________________________________________________________________________________________________________________________
 
 ### :man_technologist: My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-sourav)](https://github.com/SOURAV/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sk-sourav&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sk-sourav&show_icons=true&theme=radical)
+
+
+
+________________________________________________________________________________________________________________________________________________
+<p align="center">
+   <img src="https://canadian-tr.org/wp-content/uploads/2018/11/lets-connect-1024x441.jpg" width="350">
+</p>
+
+
+<div align="center">
+<div id="badges">
+     <a href="your-linkedin-URL">
+       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     </a>
+     <a href="your-twitter-URL">
+       <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+     </a>
+</div>
