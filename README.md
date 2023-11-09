@@ -37,6 +37,8 @@ ________________________________________________________________________________
 
   ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sk-sourav&show_icons=true&theme=radical)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 _____________________________________________________________________________________________________________________________________________________________________________
